@@ -6,33 +6,28 @@ Olá! Meu nome é **Johnatan Vasconcelos**, sou estudante de **Análise e Desenv
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
 <img alt="Java" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"> <img alt="Spring Boot" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring Boot.svg">
 <img alt="PostgreSql" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg"> <img alt="MySQL" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
-<img alt="Sqlite" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg">
-<img alt="Git" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg"> <img alt="Github" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
-<img alt="Docker" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg"> <img alt="Postman" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
-<img alt="CSS" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"> <img alt="Html" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-<img alt="Python" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg"> <img alt="JavaScript" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+<img alt="Sqlite" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg"> <img alt="CSS" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg"> <img alt="Html" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg"> <img alt="Python" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+<img alt="JavaScript" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
 
 - **Java +17 (Exceptions, APIs REST, POO)**
-- **Spring Boot e Spring Framework**
+- **Spring Boot & Spring Framework (Configuração e Build com Maven, Spring Boot Starters)**
 - **SQL** (MySQL, PostgreSQL, SQLite)
-- **Git/GitHub** (Controle de versão)
-- **Docker & CI/CD** (Básico)
 - **HTML5 & CSS3**
 - **Pyhton e JavaScript** (Básico)
+--- 
+
+## 🛠️ Ferramentas e DevOps:
+<img alt="Git" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg"> <img alt="Github" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
+<img alt="Docker" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg"> <img alt="Postman" height="35" width="35" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
+- **Postman**
+- **Maven**
+- **Git/GitHub** (Controle de versão)
+- **Docker & CI/CD** (Básico)
 ---
-<!---
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg"> <img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring Boot.svg">
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
-<img alt="[Icon]" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
--->
 
 ## 🎯 Objetivos
 - Aprender novas tecnologias que acrescentem na minha carreira como (Kafka, RabbitMQ, AWS, GCP, Angular e etc)
