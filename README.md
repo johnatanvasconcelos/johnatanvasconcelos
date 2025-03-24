@@ -39,7 +39,7 @@ Olá! Meu nome é **Johnatan Vasconcelos**, sou estudante de **Análise e Desenv
 
 ## 📫 Contato
 - 💼 **LinkedIn:** https://www.linkedin.com/in/johnatan-vasconcelos/
-- 💼 **e-Mail:** johnatanvasconcelosc@gmail.com
+- 📩 **e-Mail:** johnatanvasconcelosc@gmail.com
 ---
 
 ### Seja bem-vindo ao meu repositório! 
