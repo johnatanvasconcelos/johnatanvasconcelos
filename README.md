@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Meu nome é **Johnatan Vasconcelos**, sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenvolvimento backend**. Apaixonado por **tecnolgia, resolução de problemas, arquitetura e engenharia de software**, estou sempre buscando aprimorar minhas habilidades e construir soluções escaláveis.
+Olá! Meu nome é **Johnatan Vasconcelos**, sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **desenvolvimento backend**. Apaixonado por **tecnologia, resolução de problemas, arquitetura e engenharia de software**, estou sempre buscando aprimorar minhas habilidades e construir soluções escaláveis.
 
 ---
 
