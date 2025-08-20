@@ -12,25 +12,25 @@ Busco constantemente aprimorar minhas habilidades, explorando **boas práticas, 
 ### ☕ Backend com Java
 - **Java 17+** → Programação orientada a objetos (POO), **Streams API**, **Collections**, **Exception Handling**  
 - **Spring Framework** →  
-  - **Spring Boot** (inicialização rápida de projetos)  
-  - **Spring MVC** (arquitetura web em camadas)  
-  - **Spring Data JPA** (persistência e repositórios)  
-  - **Spring Security** (autenticação e autorização)  
-  - **Validation** (Bean Validation com Hibernate Validator)
+  - **Spring Boot** 
+  - **Spring MVC**  
+  - **Spring Data JPA**  
+  - **Spring Security**  
+  - **Validation**
 
 ### 🗄️ Banco de Dados & ORM
-- **SQL** (CRUD, modelagem de dados, relacionamentos)  
-- **JPA/Hibernate** (mapeamento objeto-relacional)  
-- **Flyway** (controle de versionamento de schema)  
+- **SQL**  
+- **JPA/Hibernate**  
+- **Flyway**  
 - **PostgreSQL | MySQL**
 
 ### 🛠️ Build, Versionamento & IDEs
-- **Maven** (gerenciamento de dependências e build)  
-- **Git/GitHub** (controle de versão e colaboração)  
+- **Maven** 
+- **Git/GitHub**  
 - **IntelliJ IDEA** | **VSCode**
 
 ### 🧪 Testes
-- **JUnit 5** (testes unitários e de integração)  
+- **JUnit 5** (testes unitários)  
 - **Mockito** (mocking e simulação de dependências)  
 
 ### 🌐 APIs & Integrações
