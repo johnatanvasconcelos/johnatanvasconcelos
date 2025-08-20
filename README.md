@@ -66,7 +66,5 @@ Atualmente aprofundando conhecimento em:
 ### Seja bem-vindo ao meu repositório!  
 👉 Explore meus projetos e acompanhe minha evolução 🚀  
 
-### Take a Look! 👀
 ![1742389894442eqskcshq (1)](https://github.com/user-attachments/assets/44ed400d-a5e2-42ed-8359-69b2a1f200d3)
 
----
