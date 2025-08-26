@@ -50,8 +50,8 @@ Atualmente aprofundando conhecimento em:
 ---
 
 ## 🎯 Objetivos Profissionais
-- Consolidar expertise em **arquitetura de software backend com Java**  
-- Aplicar **padrões de projeto** para soluções mais limpas e manuteníveis  
+- Consolidar expertise em **arquitetura de software backend**  
+- Aplicar **padrões de projeto** para soluções mais limpas e escaláveis  
 - Evoluir em **arquitetura de microsserviços** e sistemas distribuídos  
 - Desenvolver habilidades em **engenharia de software** e **DevOps**
 
