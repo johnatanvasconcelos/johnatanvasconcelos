@@ -6,19 +6,13 @@ Busco constantemente aprimorar minhas habilidades, explorando **boas práticas, 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,git,mysql,github,html,css,maven,postman,idea,vscode,js)](https://skillicons.dev)
 ---
-
 ## 🚀 Tecnologias & Habilidades
 
 ### ☕ Backend com Java
-- **Java 17+** → Programação orientada a objetos (POO), **Streams API**, **Collections**, **Exception Handling**  
-- **Spring Framework** →  
-  - **Spring Boot** 
-  - **Spring MVC**  
-  - **Spring Data JPA**  
-  - **Spring Security**  
-  - **Validation**
+- **Java 17+** → Programação orientada a objetos, Streams API, Collections, Exception Handling  
+- **Spring Framework** →  Spring Boot, Spring Data JPA, Spring Security
 
-### 🗄️ Banco de Dados & ORM
+### 🗄️ Banco de Dados
 - **SQL**  
 - **JPA/Hibernate**  
 - **Flyway**  
@@ -41,11 +35,16 @@ Busco constantemente aprimorar minhas habilidades, explorando **boas práticas, 
 ---
 
 ## 📚 Em Estudo & Aprimoramento
+
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,kafka,rabbitmq,githubactions)](https://skillicons.dev)
+
 Atualmente aprofundando conhecimento em:
+- **Microsserviços e mensageria (Kafka, RabbitMQ)**
+- **Docker**
+- **Cloud**(EC2, RDS, S3 e etc)
+- **CI/CD - Github Actions** 
 - **Arquitetura Limpa (Clean Architecture)**  
-- **Design Patterns & SOLID Principles**  
-- **Microsserviços e mensageria (Kafka, RabbitMQ)**  
-- **DevOps e escalabilidade (Docker, CI/CD, Cloud)**
+- **Design Patterns & SOLID Principles** 
 
 ---
 
